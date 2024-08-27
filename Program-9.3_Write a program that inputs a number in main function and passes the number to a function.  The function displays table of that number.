@@ -9,6 +9,8 @@ int main()
     cout<<"Enter a number: ";
     cin>>num;
     table(num);
+cout<< " My name is Asmad." << endl;
+    cout<< "Roll number : 007. " << endl;
 }
 void table(int n)
 {
