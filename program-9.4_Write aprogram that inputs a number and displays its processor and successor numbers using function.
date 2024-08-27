@@ -8,6 +8,8 @@ int main()
     cout << "Enter an integer : ";
     cin>>x;
     value(x);
+cout<< " My name is Asmad." << endl;
+    cout<< "Roll number : 007. " << endl;
 }
 void value(int x)
 {
