@@ -9,6 +9,8 @@ int main()
     cout<<"Enter two numbers: ";
 cin>>x>>y;
 max(x, y);
+
+
 }
 void max(int a,int b)
 {
